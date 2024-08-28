@@ -3,7 +3,12 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Hello Baby");
         for(int i=0;i<10;i++){
-
+                if(i>10){
+                    System.out.println("Greater than 10");
+                }
+                else{
+                    System.out.println("Less than 10");
+                }
         }
     }
 }
