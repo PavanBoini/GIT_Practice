@@ -10,5 +10,9 @@ public class Main {
                     System.out.println("Less than 10");
                 }
         }
+
+        while(true){
+            
+        }
     }
 }
