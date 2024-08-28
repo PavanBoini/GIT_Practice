@@ -10,9 +10,12 @@ public class Main {
                     System.out.println("Less than 10");
                 }
         }
-
+        char ch='d'; 
+        System.out.println(ch);
         while(true){
             
         }
+
+       
     }
 }
