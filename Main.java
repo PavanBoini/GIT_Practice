@@ -16,6 +16,10 @@ public class Main {
         while(flag);{
             flag=false;
         }
+        if(2>0){
+            System.out.println("Greater");
+        }
+        System.out.println("Lesser");
 
        
     }
