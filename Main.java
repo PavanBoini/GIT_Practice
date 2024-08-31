@@ -12,8 +12,9 @@ public class Main {
         }
         char ch='d'; 
         System.out.println(ch);
-        while(true){
-            
+        boolean flag=true;
+        while(flag);{
+            flag=false;
         }
 
        
